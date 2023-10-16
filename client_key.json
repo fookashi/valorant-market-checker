@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "valorant-accounts-for-funpay",
+  "private_key_id": "41128e052002000b44e295c5a8bae7ba9250ae1b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDO+mgNylqdqPj0\n4tFk9jRs2msOe+Nrd8Jj4Yt7HMuBchHlUmm/JzYVs1NtBcuwao42aBSS2ZtDhQBy\nPeB9rOZuEilzD5PZCNqZIaVZ+3OHipClepbl8GOAL8Rca3rKx5l8FamUMM5ooBtV\nbmeRGMVm8TSeb35f/1xTxLCwhQOOM2CfhhANCZogKqd6Fh2yHC4Jz9e9zsK9a8xi\n3abnfE+rrQCP/zxt7/VzfSjJkU74NEVQnjDa9o3DTyaOG41SKJl/Iz20esKHx72p\nsjkIm/AI2Dk+61dwmkCUSe9dBpUFLB0avKii810qObmce5sH+iq8FdSvID7pm5xX\n0a+UdJeDAgMBAAECggEAB0M3sRQvbczNP4dRIm78YL1uEdbWOghWJKJE/kLnMr/8\nt/ejIkP1j9/E+geNob97a5YajE4tnO1NZxs1hcAyLbaRbpCJw/NqYc+Rn8CrYxwn\nl/oSa9F6WR5T9r8GuTE1X4QORgoYYNXaLHs9QxTqO4LgyvzNvTL9DsUEdibH4yg2\nHf5wCIACAt30GJkmHrGIutnM7GlE5xuVjfmTbSf/Te3bnbQT8Pg62QTwJpfH6Slt\nxbMPjBKt1ChjrRCw3RSofqwzy+GE0C18zZ7KZl6iq4uAyWd6SG0dpD/eC8YQfHYq\n81WBDK5uBVaG0dTnFdmZtB4M65B4+0qOGduRf0ViQQKBgQD/HOGrlztFkUQY5Cxw\nciyQDdxXgTQvj/TX1r4CfKai1cmpJQRhR1CvpH2nAhYbGRHCYHRkJ5wH1NIFviuo\n3PqDnS74qfxbZXyfu03srXl3F5TZHdDZyuFvgi6fJaIYZG96mDawZJUR+5eWaT+8\nuQjS94igiSTIjdRbLqjCHOWTEQKBgQDPsqwXz0LaATYzuoLSoKXlXdtkHXTNHO8+\npiL1pYtN3L/yVxv7I9efcOL3hdo3jTrD3r+i2asWg8WYnN2N35HVkUc4bgyCG6tp\n/3KAPL1GVjydWGyX7jGeHFBndMlRMpZQ2o1Ro1/oWkF9sE22MUx/9vyAP2McWJ+w\n4kLe/ZVZUwKBgElqWlczEk+W2m3/W/qQINrj4kEcYZQ+bUuf9NZqYNoDhCE1Eemc\nyE+DmtVw+EOcF0xEzbn03CY0zKvyakYSMdWmaloNMR5sOk0NbgNqeMYY9zD0L6I9\njFq2sAwEnH1AigRRwYtJpsyiBqG2cC0zYqKzsZHhZcCBcFc9OjuCbV7BAoGAOIDO\nCogrEq3DthzmXDCyEQ0Qk1LkJKzbdTqzRgqsNBl66o3CIfdlQI3wYRA8BmLYetLN\nZZs7zRs6FUOPjnok7WnhazudEYQ/hM2ms7ZSc6EgSln06Pw26WGgihSedAWEGSjr\nyyrb+5UaPfxJl+gffKyPksAr0VlW0EMtmAZ6q9sCgYEAzO8aBqoT9EBH1cTH0cVG\njLM0Oqzsm9GqIAg4u07fsRqNU3eYasQLt7QCjSzlEwulRaYULCvoNv3hwqjDFJVO\nKQur/N9KtT7bT/wGDNyLDCI61PYZmC+hrd1bNBRUKQunk6vO/HYUzbrAEynJTVeT\nc3z0PMAf5cVd2lkgsmzEkZA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheet-manager@valorant-accounts-for-funpay.iam.gserviceaccount.com",
+  "client_id": "107808408201813740467",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheet-manager%40valorant-accounts-for-funpay.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
